@@ -19,4 +19,4 @@ Uma aplicação web React que exibe uma galeria de fotos com funcionalidades de 
 
 1. Clone o repositório:
 ```bash
-git clone [<url-do-repositorio>](https://github.com/http-krolina/DESAFIO-2.git)
+git clone https://github.com/http-krolina/DESAFIO-2.git
